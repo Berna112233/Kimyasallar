@@ -1,0 +1,30 @@
+body {
+    background: rgb(207, 145, 207);
+
+    p{
+        color: red;
+    }
+    </p>
+     <div>burası benim kutucuğum</div>
+    /# Od ile css kullanımı */
+    
+     #özelDiv {
+        color: red;
+    }
+body {
+    background-color: aquamarine;
+    background-image: url ("cocuklar.jpeg");
+    background-repeat: no-repeat;
+}    
+
+    .ozel-font {
+        font: 15pt Tahoma, Verdana;
+    }
+.hexa-renk {
+    background-color: #cecece;
+}
+  .rgb-renk {
+      background-color: rgb(200, rgb(50, 168, 50), rgb(67, 67, 207));
+  }  
+
+}
